@@ -33,7 +33,7 @@ body{
 
 }
 .daniel-card{
-    background-image: url(/Assets/bg-pattern-quotation.svg);
+    background-image: url(/Assets/images/bg-pattern-quotation.svg);
     background-position:right top 5px;
     top: 0px;
     background-repeat: no-repeat;
